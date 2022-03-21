@@ -24,8 +24,8 @@ jobs:
           #   phpunit: 8
           # - php: 7.3
           #   phpunit: 9
-          # - php: 7.4
-          #   phpunit: 9
+          - php: 7.4
+            phpunit: 9
           - php: '8.0'
             phpunit: 9
 
